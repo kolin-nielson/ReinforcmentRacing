@@ -1,0 +1,38 @@
+newmtl FinishLineMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT11\FinishLine01.png
+illum 2
+
+newmtl SandTile
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT11\Sand.png
+illum 2
+
+newmtl RallyTurnBoardMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT11\TurnBoards01.png
+illum 2
+
+newmtl RaceRoadMat
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT11\Road_racinglane_dark01.png
+illum 2
+
+newmtl GuardRailMat
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT11\Guardrails01.png
+map_Bump C:\Prog\Data\Projects\RaceTracks\RT11\Guardrails01_n.png
+illum 2
+
+newmtl WallConcreteMat
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT11\WallConcrete01_512.png
+illum 2
+
+newmtl CarSlotMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT11\CarSlot01.png
+illum 2
+
+newmtl BrakeBoardMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT11\BrakeBoards01.png
+illum 2
+

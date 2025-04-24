@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 9095425b88d53294cb9d38e226d45dfe
+timeCreated: 1493319055
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: FinishLine
+    100002: RaceTrack_BrakeBoard
+    100004: RaceTrack_Curbs
+    100006: RaceTrack_Grid
+    100008: RaceTrack_Main
+    100010: RaceTrack_RallyBoard
+    100012: RaceTrack_Spectators01
+    100014: RaceTrack_Spectators02
+    100016: RaceTrack_Spectators03
+    100018: RaceTrack_Trees
+    100020: //RootNode
+    400000: FinishLine
+    400002: RaceTrack_BrakeBoard
+    400004: RaceTrack_Curbs
+    400006: RaceTrack_Grid
+    400008: RaceTrack_Main
+    400010: RaceTrack_RallyBoard
+    400012: RaceTrack_Spectators01
+    400014: RaceTrack_Spectators02
+    400016: RaceTrack_Spectators03
+    400018: RaceTrack_Trees
+    400020: //RootNode
+    2300000: FinishLine
+    2300002: RaceTrack_BrakeBoard
+    2300004: RaceTrack_Curbs
+    2300006: RaceTrack_Grid
+    2300008: RaceTrack_Main
+    2300010: RaceTrack_RallyBoard
+    2300012: RaceTrack_Spectators01
+    2300014: RaceTrack_Spectators02
+    2300016: RaceTrack_Spectators03
+    2300018: RaceTrack_Trees
+    3300000: FinishLine
+    3300002: RaceTrack_BrakeBoard
+    3300004: RaceTrack_Curbs
+    3300006: RaceTrack_Grid
+    3300008: RaceTrack_Main
+    3300010: RaceTrack_RallyBoard
+    3300012: RaceTrack_Spectators01
+    3300014: RaceTrack_Spectators02
+    3300016: RaceTrack_Spectators03
+    3300018: RaceTrack_Trees
+    4300000: FinishLine
+    4300002: RaceTrack_BrakeBoard
+    4300004: RaceTrack_Curbs
+    4300006: RaceTrack_Grid
+    4300008: RaceTrack_Main
+    4300010: RaceTrack_RallyBoard
+    4300012: RaceTrack_Spectators01
+    4300014: RaceTrack_Spectators02
+    4300016: RaceTrack_Spectators03
+    4300018: RaceTrack_Trees
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

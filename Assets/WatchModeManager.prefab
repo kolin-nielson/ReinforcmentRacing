@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2420999184201386445
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7387047754782174646}
+  - component: {fileID: 1962575897250500906}
+  m_Layer: 0
+  m_Name: WatchModeManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7387047754782174646
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2420999184201386445}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1164.2655, y: 1549.2587, z: -993.7946}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1962575897250500906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2420999184201386445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cc987078b4e84a6888fd6c93d32ce55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showBoundaryWalls: 1
+  showCheckpoints: 1
+  showRaycasts: 1
+  showTrackCenterline: 1
+  showUI: 1
+  innerBoundaryColor: {r: 0, g: 0.7, b: 1, a: 0.8}
+  outerBoundaryColor: {r: 1, g: 0.3, b: 0.3, a: 0.8}
+  boundaryLineWidth: 0.2
+  boundaryLineHeight: 0.1
+  boundaryEmissionIntensity: 1.5
+  checkpointColor: {r: 0, g: 1, b: 0, a: 0.6}
+  nextCheckpointColor: {r: 1, g: 1, b: 0, a: 0.8}
+  checkpointWidth: 0.3
+  checkpointHeight: 5
+  trackRayColor: {r: 0, g: 1, b: 0, a: 1}
+  boundaryRayColor: {r: 1, g: 0, b: 1, a: 1}
+  otherRayColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  raycastDuration: 0.05
+  panelSize: {x: 300, y: 200}
+  panelPosition: {x: 20, y: 20}
+  panelColor: {r: 0.1, g: 0.1, b: 0.1, a: 0.8}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  toggleColor: {r: 1, g: 1, b: 1, a: 1}

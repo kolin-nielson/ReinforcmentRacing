@@ -1,0 +1,66 @@
+newmtl FinishLineMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\FinishLine01.png
+illum 2
+
+newmtl GrassGreen01
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\GrassGreen01b.png
+illum 2
+
+newmtl RaceRoadMat
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\Road_racinglane_dark01.png
+illum 2
+
+newmtl GuardRailMat
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\Guardrails01.png
+map_Bump C:\Prog\Data\Projects\RaceTracks\RT09\Guardrails01_n.png
+illum 2
+
+newmtl StoneSlope01
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\StoneSlope01.png
+illum 2
+
+newmtl TreesMat
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\WideTreeLine.png
+illum 2
+
+newmtl PineMat
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\MyPineTree04.png
+illum 2
+
+newmtl RallyTurnBoardMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\TurnBoards01.png
+illum 2
+
+newmtl CurbMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\Curb02.png
+illum 2
+
+newmtl CarSlotMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\CarSlot01.png
+illum 2
+
+newmtl BrakeBoardMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\BrakeBoards01.png
+illum 2
+
+newmtl SpectatorsMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\Cousins256.png
+illum 2
+
+newmtl SpectatorsMat03
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\Group03.png
+illum 2
+
+newmtl SpectatorsMat02
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT09\Group02.png
+illum 2
+

@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &754286540013029849
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1876972764134034457}
+  - component: {fileID: 9157398933154863349}
+  - component: {fileID: 3823084954325711678}
+  - component: {fileID: 8867992302992467108}
+  - component: {fileID: 1519524236196419114}
+  m_Layer: 0
+  m_Name: TrackManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1876972764134034457
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 754286540013029849}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -37.7, y: 1.74, z: 78.6}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9157398933154863349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 754286540013029849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfe497146370b8c45987074988757847, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boundaryWallLayer:
+    serializedVersion: 2
+    m_Bits: 512
+  grassLayer:
+    serializedVersion: 2
+    m_Bits: 128
+  gridResolution: 0.5
+  minWallSegmentLength: 1
+  raycastHeightOffset: 10
+  raycastMaxDistance: 20
+  scanRadius: 300
+  showBoundaryWalls: 0
+  showDetectedEdges: 0
+  showScanGrid: 0
+  simplificationTolerance: 0.25
+  trackEdgeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  trackLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  wallColor: {r: 1, g: 0, b: 1, a: 0.5}
+  wallHeight: 10
+  wallThickness: 0.2
+--- !u!114 &3823084954325711678
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 754286540013029849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bc42a92d224a7f40ace55c46310ba04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boundaryDetector: {fileID: 9157398933154863349}
+  carLayer:
+    serializedVersion: 2
+    m_Bits: 2048
+  carPrefab: {fileID: 7688507518975815548, guid: 08c2b3dfa7ba4894c9cf05eb21113f4e, type: 3}
+  checkpointGenerator: {fileID: 8867992302992467108}
+  enableSelfPlay: 0
+  numberOfCars: 1
+  preventCollisionsBetweenAgents: 1
+  randomizeSpawnPoints: 1
+  useGeneratedSpawnPoints: 1
+  manualSpawnPoints: []
+--- !u!114 &8867992302992467108
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 754286540013029849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82a26bfee452b47478e55bb917d73aea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boundaryDetector: {fileID: 9157398933154863349}
+  trackLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  targetCheckpointCount: 50
+  minCheckpointSpacing: 5
+  maxCheckpointSpacing: 25
+  defaultCheckpointWidth: 10
+  checkpointTriggerHeight: 5
+  optimizeForRacingLine: 1
+  apexFactor: 0.35
+  checkpointPlacementRaycastHeightOffset: 1.5
+  generateSpawnPoints: 1
+  numberOfSpawnPointsToGenerate: 8
+  spawnPointHeightOffset: 1
+  minSpawnPointSeparation: 20
+  showCheckpointsGizmos: 0
+  checkpointColor: {r: 0, g: 1, b: 0, a: 1}
+  directionColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  showCenterlinePoints: 0
+  centerlineColor: {r: 0, g: 1, b: 1, a: 1}
+  enableDebugLogs: 1
+  showSpawnPointsGizmos: 0
+  regenerateCheckpoints: 0
+--- !u!114 &1519524236196419114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 754286540013029849}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39f1d06e96626d147acdcff71a1c3373, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showUI: 1
+  speedUnit: 2
+  boxWidth: 280
+  boxHeight: 160
+  agentSearchInterval: 2
+  enableDebugLogs: 0

@@ -1,0 +1,71 @@
+newmtl GrassTile
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\GrassGreen01.png
+illum 2
+
+newmtl FinishLineMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\FinishLine01.png
+illum 2
+
+newmtl BrakeBoardMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\BrakeBoards01.png
+illum 2
+
+newmtl CarSlotMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\CarSlot01.png
+illum 2
+
+newmtl RaceRoadMat
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\Road_racinglane_dark01.png
+illum 2
+
+newmtl GrassDry01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\GrassDry01.png
+illum 2
+
+newmtl CurbMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\Curb02.png
+illum 2
+
+newmtl GuardRailMat
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\Guardrails01.png
+map_Bump D:\Prog\Data\Projects\RaceTracks\RT18\Guardrails01_n.png
+illum 2
+
+newmtl GrassGreen01
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\GrassGreen01.png
+illum 2
+
+newmtl TreesMat
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\WideTreeLine.png
+illum 2
+
+newmtl PineMat
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\MyPineTree04.png
+illum 2
+
+newmtl SpectatorsMat02
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\Group02.png
+illum 2
+
+newmtl RallyTurnBoardMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\TurnBoards01.png
+illum 2
+
+newmtl SpectatorsMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\Cousins256.png
+illum 2
+
+newmtl SpectatorsMat03
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT18\Group03.png
+illum 2
+

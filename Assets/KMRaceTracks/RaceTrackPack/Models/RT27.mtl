@@ -1,0 +1,83 @@
+newmtl SpectatorsMat03
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\Group03.png
+illum 2
+
+newmtl GuardRails02RW
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\GuardRails02_rw.png
+map_Bump D:\Prog\Data\Projects\RaceTracks\RT27\GuardRails02_n.png
+illum 2
+
+newmtl GuardRailMat
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\Guardrails01.png
+map_Bump D:\Prog\Data\Projects\RaceTracks\RT27\Guardrails01_n.png
+illum 2
+
+newmtl GrassGreen01
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\GrassGreen01.png
+illum 2
+
+newmtl RockLine01_gray
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\MyRockLine01_gray.png
+map_Bump D:\Prog\Data\Projects\RaceTracks\RT27\MyRockLine01_n.png
+illum 2
+
+newmtl SpectatorsMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\Cousins256.png
+illum 2
+
+newmtl PineMat
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\MyPineTree04.png
+illum 2
+
+newmtl Rock
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\RockAlbedo.png
+map_Bump D:\Prog\Data\Projects\RaceTracks\RT27\RockNormal.png
+illum 2
+
+newmtl CarSlotMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\CarSlot01.png
+illum 2
+
+newmtl RallyTurnBoardMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\TurnBoards01.png
+illum 2
+
+newmtl CurbMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\Curb02.png
+illum 2
+
+newmtl SpectatorsMat02
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\Group02.png
+illum 2
+
+newmtl RaceRoadMat
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\Road_racinglane_dark01.png
+illum 2
+
+newmtl GrassDry01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\GrassDry01.png
+illum 2
+
+newmtl BrakeBoardMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\BrakeBoards01.png
+illum 2
+
+newmtl GrassTile
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\GrassGreen01.png
+illum 2
+
+newmtl FinishLineMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT27\FinishLine01.png
+illum 2
+

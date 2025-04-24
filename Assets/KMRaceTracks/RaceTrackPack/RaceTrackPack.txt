@@ -1,0 +1,16 @@
+RT03 - RT22 – Race Track Pack
+
+Big set of racetracks of various styles
+Low poly. The triangle counts are between 2248 and 14890 
+Optimized for the best combination of smooth corners and low polygon numbers.
+Distance boards before the corners to help you judge the braking point accurately.
+Rally style turn boards indicating the direction and sharpness (4 levels – green to red) of upcoming turns. Learning of a new track is going to become easier than ever before.
+Sharp curbs will make you pay for cutting the corners too much.
+Hundreds of spectators to cheer you on.
+Starting grid and finish line. Time to race!
+All features (boards, curbs, grids) are separate meshes. You can easily customize the track by removing them.
+
+Made by Kajaman
+
+Get more here
+https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:18481

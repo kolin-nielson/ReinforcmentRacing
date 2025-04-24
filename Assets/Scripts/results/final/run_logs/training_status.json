@@ -1,0 +1,65 @@
+{
+    "RacingBehavior": {
+        "checkpoints": [
+            {
+                "steps": 14580297,
+                "file_path": "results\\final\\RacingBehavior\\RacingBehavior-14580297.onnx",
+                "reward": 23650.687189149856,
+                "creation_time": 1744950353.0753193,
+                "auxillary_file_paths": [
+                    "results\\final\\RacingBehavior\\RacingBehavior-14580297.pt"
+                ]
+            },
+            {
+                "steps": 14999863,
+                "file_path": "results\\final\\RacingBehavior\\RacingBehavior-14999863.onnx",
+                "reward": 95083.38152873516,
+                "creation_time": 1744954209.636364,
+                "auxillary_file_paths": [
+                    "results\\final\\RacingBehavior\\RacingBehavior-14999863.pt"
+                ]
+            },
+            {
+                "steps": 15499899,
+                "file_path": "results\\final\\RacingBehavior\\RacingBehavior-15499899.onnx",
+                "reward": null,
+                "creation_time": 1744954912.6544187,
+                "auxillary_file_paths": [
+                    "results\\final\\RacingBehavior\\RacingBehavior-15499899.pt"
+                ]
+            },
+            {
+                "steps": 15999884,
+                "file_path": "results\\final\\RacingBehavior\\RacingBehavior-15999884.onnx",
+                "reward": 116055.10068766277,
+                "creation_time": 1744955617.2985842,
+                "auxillary_file_paths": [
+                    "results\\final\\RacingBehavior\\RacingBehavior-15999884.pt"
+                ]
+            },
+            {
+                "steps": 16051621,
+                "file_path": "results\\final\\RacingBehavior\\RacingBehavior-16051621.onnx",
+                "reward": null,
+                "creation_time": 1744955694.46576,
+                "auxillary_file_paths": [
+                    "results\\final\\RacingBehavior\\RacingBehavior-16051621.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 16051621,
+            "file_path": "results\\final\\RacingBehavior.onnx",
+            "reward": null,
+            "creation_time": 1744955694.46576,
+            "auxillary_file_paths": [
+                "results\\final\\RacingBehavior\\RacingBehavior-16051621.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.5.1+cu121"
+    }
+}

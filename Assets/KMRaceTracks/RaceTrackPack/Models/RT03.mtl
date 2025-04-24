@@ -1,0 +1,48 @@
+newmtl CurbMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\Curb02.png
+illum 2
+
+newmtl RallyTurnBoardMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\TurnBoards01.png
+illum 2
+
+newmtl RaceRoadLight
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\Road_racinglane_light01.png
+illum 2
+
+newmtl GrassGreen01
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\GrassGreen01b.png
+illum 2
+
+newmtl GuardRailMat
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\Guardrails01.png
+map_Bump C:\Prog\Data\Projects\RaceTracks\RT03\Guardrails01_n.png
+illum 2
+
+newmtl TreesMat
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\WideTreeLine.png
+illum 2
+
+newmtl BrakeBoardMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\BrakeBoards01.png
+illum 2
+
+newmtl CarSlotMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\CarSlot01.png
+illum 2
+
+newmtl Z3Mat
+Kd 0.9561527 0.9576669 0.9632353
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\z3_128.png
+illum 2
+
+newmtl FinishLineMat01
+Kd 1 1 1
+map_Kd C:\Prog\Data\Projects\RaceTracks\RT03\FinishLine01.png
+illum 2
+

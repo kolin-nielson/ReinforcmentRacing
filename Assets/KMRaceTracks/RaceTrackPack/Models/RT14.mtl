@@ -1,0 +1,73 @@
+newmtl GrassTile
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\GrassGreen01.png
+illum 2
+
+newmtl FinishLineMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\FinishLine01.png
+illum 2
+
+newmtl SpectatorsMat02
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\Group02.png
+illum 2
+
+newmtl BrakeBoardMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\BrakeBoards01.png
+illum 2
+
+newmtl PineMat
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\MyPineTree04.png
+illum 2
+
+newmtl CarSlotMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\CarSlot01.png
+illum 2
+
+newmtl CurbMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\Curb02.png
+illum 2
+
+newmtl SpectatorsMat03
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\Group03.png
+illum 2
+
+newmtl RallyTurnBoardMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\TurnBoards01.png
+illum 2
+
+newmtl SpectatorsMat01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\Cousins256.png
+illum 2
+
+newmtl GuardRailMat
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\Guardrails01.png
+map_Bump D:\Prog\Data\Projects\RaceTracks\RT14\Guardrails01_n.png
+illum 2
+
+newmtl GrassGreen01
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\GrassGreen01.png
+illum 2
+
+newmtl RockLine01_gray
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\MyRockLine01_gray.png
+map_Bump D:\Prog\Data\Projects\RaceTracks\RT14\MyRockLine01_n.png
+illum 2
+
+newmtl RaceRoadMat
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\Road_racinglane_dark01.png
+illum 2
+
+newmtl GrassDry01
+Kd 1 1 1
+map_Kd D:\Prog\Data\Projects\RaceTracks\RT14\GrassDry01.png
+illum 2
+
